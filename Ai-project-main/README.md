@@ -1,6 +1,7 @@
 # Faical Recogning Attendance System 
 <h3>AI-Powered Attendance Management System</h3><br>
 <h3>Introduction</h3>
+
 <br>
 <p>This project presents an automated attendance system that leverages face recognition technology to streamline the process of marking student attendance. By employing machine learning algorithms, the system accurately identifies students in real-time using a college camera. Daily attendance reports are then sent to students via email, providing a transparent and efficient method for tracking attendance records.</p>
 <br><br>
